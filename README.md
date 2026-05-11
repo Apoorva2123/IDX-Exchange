@@ -22,12 +22,13 @@ This project focuses on:
 Completed:
 - Data aggregation
 - Data cleaning
-- Missing value analysis
-- Feature engineering
-- Market metric creation
 
 Currently Working On:
+- Missing value analysis
+- Market metric creation
 - Feature Engineering
+
+Later, I will be working on the following:
 - Tableau dashboard development
 - Market intelligence reporting
 - Housing market trend visualization
@@ -37,7 +38,7 @@ Currently Working On:
 - Pandas
 - NumPy
 - Tableau
-- Jupyter Notebook
+- Jupyter Notebook and VS Code
 
 ## Business Focus
 - Analyzing housing market trends, pricing behavior, inventory movement, and transaction efficiency to identify meaningful real estate insights and support data-driven decision-making.
